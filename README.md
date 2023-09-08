@@ -1,0 +1,2 @@
+# LingoGuessr
+About LingoGuessr
